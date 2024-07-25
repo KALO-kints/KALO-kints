@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KALO-kints
 - 👀 I’m interested in Blockchain and Web3
-- 🌱 I’m currently learning Web3
+- 🌱 I’m currently learning about Web3
 - 💞️ I’m looking to collaborate on Web3 gaming 
 - 📫 kalokints@gmail.com
   
